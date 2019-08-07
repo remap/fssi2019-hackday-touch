@@ -1,0 +1,12 @@
+
+/Users/peetonn/Documents/Work/ndnrtc/cpp/resources
+/Users/peetonn/Documents/Work/fssi19/aws-sandbox
+/Users/peetonn/Documents/ndnrtc-workspace/utils
+/Users/peetonn/Documents/ndnrtc-workspace/utils/newutils
+/Users/peetonn/Documents/Work/PyNDN2/python
+/Users/peetonn/Documents/Work/PyCNL/python
+/Users/peetonn/Documents/Work/fssi19/aws-sandbox/env/lib/python3.7/site-packages
+/Users/peetonn/.pyenv/versions/3.7.3/lib/python37.zip
+/Users/peetonn/.pyenv/versions/3.7.3/lib/python3.7
+/Users/peetonn/.pyenv/versions/3.7.3/lib/python3.7/lib-dynload
+/Users/peetonn/.pyenv/versions/3.7.3/lib/python3.7/site-packages
